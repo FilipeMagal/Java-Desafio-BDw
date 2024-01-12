@@ -1,5 +1,5 @@
 # Java-Desafio-BDw
-Desafio feito pela empresa w5i
+Desafio feito durante um estudo
 <pre>
 ```
   -- Código mysql
